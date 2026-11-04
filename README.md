@@ -1,4 +1,4 @@
-# Safari Desk: multi-agent demo (Google ADK)
+# Safari Desk: Intelligent AI Agents Using Vertex AI Agent Builder (Google ADK)
 
 Pipeline: **Intake -> Planner (grounded) -> Pricing -> Reply (human approval)**
 

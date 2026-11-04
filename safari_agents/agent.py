@@ -1,5 +1,6 @@
 """Safari enquiry-to-booking: a deterministic pipeline of specialist agents.
 
+Built with Google ADK (Vertex AI Agent Builder framework).
 Intake -> Planner (grounded) -> Pricing -> Reply (human approval).
 The workflow skeleton is code; the LLM only does the thinking inside each step.
 """
