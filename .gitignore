@@ -1,0 +1,39 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ADK / session data
+.adk/
+.adk/session.db
+
+# Demo runtime data (regenerated each run)
+audit.jsonl
+approvals.json
+
+# Secrets - never commit real API keys
+.env
+.env.local
+*.env
+
+# ZIP archives
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
